@@ -1,0 +1,12 @@
+name: vpn
+description: Virtual Private Network (VPN) abstractions for Dart and Flutter.
+version: 1.0.0
+repository: https://github.com/xclud/flutter_vpn
+homepage: https://pwa.ir
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.22.0
